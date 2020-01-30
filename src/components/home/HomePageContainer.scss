@@ -77,7 +77,7 @@
     transform: translate(-170px, 172px);
   }
   @include below-desktop {
-    max-width: 300px;
+    width: 300px;
     transform: translate(-150px, 172px);
   }
   @include below-tablet-wide {

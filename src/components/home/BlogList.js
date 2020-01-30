@@ -5,11 +5,7 @@ import backgroundLeft from "../../media/background-left.svg";
 import { Link } from "gatsby"
 
 
-
-
 export const BlogList = () => {
-
-
     return (
       <div className="blogs">
           <Link  to={`blog`}>
@@ -28,7 +24,6 @@ export const BlogList = () => {
               <p className="click-to-read body-text">Click To Read</p>
             </div>
           </Link>
-        ))}
       </div>
     );
 };
