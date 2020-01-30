@@ -5,5 +5,15 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: "Fastest Follow Up",
+    titleTemplate: "%s · Fastest Follow Up",
+    description:
+      "Beat your competitors to Home Advisor Leads With Auto Texts",
+    url: "https://www.fastestfollowup.com", // No trailing slash allowed!
+    image: "/src/media/iphone.png", // Path to your image you placed in the 'static' folder
+    twitterUsername: "@fastestfollowup",
+  },
+  plugins: [`gatsby-plugin-sass`],
 }
+

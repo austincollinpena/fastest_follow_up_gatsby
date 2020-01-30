@@ -1,0 +1,15 @@
+@import "scss-variables.scss";
+
+body{
+  font-family: 'Catamaran', sans-serif;
+}
+
+
+.hidden{
+  display: none;
+}
+
+.orange-highlight{
+  color: $primary-orange;
+}
+
