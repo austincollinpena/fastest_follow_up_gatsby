@@ -5,21 +5,21 @@ dateUpdated: "2020-01-30"
 title: "Why Your Google Local Service Ads Aren't Spending"
 metaDescription: "There are two main reasons your phones aren't ringing from Google Guarantee Ads. See these and more tips!"
 snippet: "Your Google Guarantee Ads Aren’t Spending, or You’re Looking To Have Them Spend More"
+icon: ../blog-images/guarantee-checkmark.png
 ---
-Why Your Google Local Service Ads Aren't Spending
-=================================================
+
+# Why Your Google Local Service Ads Aren't Spending
 
 There are two main reasons your phones aren't ringing from Google Guarantee Ads. See these and more tips!
 
 The most common reason your Google Local Service Ads aren't spending are because:
 
--   You don't answer your phone
--   You don't close deals, or at least you don't tell Google that you're closing deals.
+- You don't answer your phone
+- You don't close deals, or at least you don't tell Google that you're closing deals.
 
 Got it? Well let's talk more about why this happens, and go over other tips that can make an impact on upping your spend for Google Guarantee Ads.
 
-Why Google Prioritizes Some Companies Over Others
--------------------------------------------------
+## Why Google Prioritizes Some Companies Over Others
 
 If you're trying [Google Guarantee Ads (AKA Local Service Ads)](https://ads.google.com/local-services-ads/), chances are you have tried Home Advisor leads or Google Ads. One thing that will stand out to you when comparing Google Guarantee Ads is that it's so much cheaper.
 
@@ -33,8 +33,7 @@ Now traditionally, like with Google Ads or Home Advisor, the bidding war starts 
 
 Google does everything in their power to send customers to the best companies.
 
-What Does That Even Mean?
--------------------------
+## What Does That Even Mean?
 
 Google can't know who the best company is, but they work with what they have. And in the case of the Google Guarantee program, the two most import things are your response rate and booking rate.
 
@@ -44,7 +43,7 @@ How many calls do you answer? If that number is less than 75% of all calls, you'
 
 To check, go to your "Leads" report to this view:
 
-![Google Guarantee Local Service Ads Leads Report Dashboard](https://fastestfollowup.com/wp-content/uploads/2020/01/leads-1024x330.png?34565a&34565a)
+![Google Guarantee Local Service Ads Leads Report Dashboard](../blog-images/leads.png)
 
 Click on any customer, and see if you picked up, or not.
 
@@ -52,21 +51,19 @@ Chances are, you're not hitting the numbers you need to in order for Google to p
 
 While it would be nice to see your response rate in a nice and easy format, I haven't found an easy way to do that besides just going through each lead. However, as you may know, it's easier to find the Booking Rate in your Reports section.
 
-![Google Guarantee Ads Report Dashboard](https://fastestfollowup.com/wp-content/uploads/2020/01/report-1024x505.png?34565a&34565a)
+![Google Guarantee Ads Report Dashboard](../blog-images/report.png)
 
-Answer Your Phone, And...
------------------------
+## Answer Your Phone, And...
 
 How does Google know if you answered your phone and had a conversation with a lead? You've got to tell them! For every single call that comes in *you must* enter the customer name into the Lead Summary section.
 
-![Lead summary report in Google Guarantee Ads](https://fastestfollowup.com/wp-content/uploads/2020/01/customer-name-1024x651.png?34565a&34565a)
+![Lead summary report in Google Guarantee Ads](../blog-images/customer-name.png)
 
 Adding notes, their email, and marking the lead as booked are also an absolute must (if you close them of course).
 
 If you don't have the mobile app, here are the download links. [Apple](https://apps.apple.com/us/app/local-services-ads-by-google/id1069142544). [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.ads.homeservices&hl=en_US).
 
-What To Do If You Already Answer Every Call
--------------------------------------------
+## What To Do If You Already Answer Every Call
 
 We're leaving the world of *musts*, and entering a world of *shoulds.* While what I'm about to tell you isn't a concrete strategy that is guaranteed to work, there's no BS peddling.
 
@@ -84,7 +81,7 @@ Step One: Go to [Whitespark.ca](https://whitespark.ca/google-review-link-gener
 
 Step Two: Go to bit.ly, create an account, and make a custom link like so:
 
-![Creating a custom review link in bit.ly](https://fastestfollowup.com/wp-content/uploads/2020/01/bitly-custom-link-1024x741.png?34565a&34565a)
+![Creating a custom review link in bit.ly](../blog-images/bitly-custom-link.png)
 
 Step 3: Text the link to your customers!
 
@@ -92,7 +89,7 @@ Step 3: Text the link to your customers!
 
 Take a look at this:
 
-![](https://fastestfollowup.com/wp-content/uploads/2020/01/roofer-sandiego.png?34565a&34565a)
+![Google Guarantee Sample Website, shows sparse information with prominent photo](../blog-images/roofer-sandiego.png)
 
 You're familiar with this view. Look at how much of an emphasis Google is giving to photos! So do yourself a favor. Look at your competitor's listings and ensure you have more photos than them. Just add one a week until they're doubled
 
@@ -100,8 +97,7 @@ A Super Important Note: Why should I choose the company from above? They've giv
 
 Think of it this way: how many products do you look at on Amazon before buying? If you're like most people, it's at least a handful. Prospects are the same way. The majority of people who land on your screen *will not* click to call you. By having a nice image with a happy customer, you're giving yourself a fighting chance. to convert the lead.
 
-Everything You Learned About Getting More Google Guarantee Leads
-----------------------------------------------------------------
+## Everything You Learned About Getting More Google Guarantee Leads
 
 1.  Answer your phones
 2.  If you answer the phone, add the name to the Google Guarantee dashboard

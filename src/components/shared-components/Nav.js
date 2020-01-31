@@ -1,12 +1,10 @@
 import React from "react";
 import "./Nav.scss";
 import { PropTypes } from "prop-types";
-import { Location } from '@reach/router';
 import {Link} from "gatsby"
 
 
 export const Nav = ({ handleInputClass, location }) => {
-  console.log(location)
 
   if(location)
     return (
@@ -55,5 +53,8 @@ export const Nav = ({ handleInputClass, location }) => {
 
 Nav.propTypes = {
   handleInputClass: PropTypes.func,
-  location: PropTypes.obj
+  location: PropTypes.oneOfType([
+    PropTypes.func,
+    PropTypes.undefined
+  ])
 };

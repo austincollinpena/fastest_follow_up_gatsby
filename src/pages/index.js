@@ -1,10 +1,8 @@
 import React, { useEffect, useState } from "react"
-import { Link } from "gatsby"
 import SEO from "../components/internals/SEO"
 import { HomePageContainer } from "../components/home/HomePageContainer"
 import { AlertBox } from "../components/home/AlertBox"
 import {Nav} from "../components/shared-components/Nav"
-import { Location } from '@reach/router';
 
 
 
