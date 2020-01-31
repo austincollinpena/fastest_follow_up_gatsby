@@ -25,7 +25,8 @@ export default ({location}) => {
       <SEO title="Close More Home Advisor Leads With Automated Texts" description="Beat your competitors to Home Advisor Leads With Auto Texts"/>
         <Nav handleInputClass={handleInputClass} location={location}/>
       <HomePageContainer>
-        {/*<AlertBox showInputClass={showInputClass} />*/}
+        {/*// TODO: Make this work*/}
+        <AlertBox showInputClass={showInputClass} />
       </HomePageContainer>
       <Footer/>
     </>
