@@ -35,12 +35,9 @@ export const BlogList = () => {
       `}
       render={data => (
         <div className="blogs">
-          {console.log(
-            data.allMarkdownRemark.edges.map(post => post.node.frontmatter.path)
-          )}
 
           {data.allMarkdownRemark.edges.map((post, index) => (
-            <Link id={post.node.id} to={post.node.frontmatter.path}>
+            <Link key={post.node.id} to={post.node.frontmatter.path}>
               <div
                 style={
                   index % 2 === 0

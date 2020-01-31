@@ -1,7 +1,7 @@
 import React from "react";
 import "../copy.scss";
 import "./Footer.scss";
-import {Link} from "react-router-dom";
+import {Link} from "gatsby"
 
 export const Footer = () => {
     return(

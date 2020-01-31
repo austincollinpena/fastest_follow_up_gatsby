@@ -4,6 +4,7 @@ import "./BlogCopy.scss"
 import { graphql } from "gatsby"
 import SEO from "../components/internals/SEO"
 import { Nav } from "../components/shared-components/Nav"
+import { Footer } from "../components/shared-components/Footer"
 
 export default function Template({ data, }) {
   const { markdownRemark } = data // data.markdown whatever holds your post data
@@ -44,6 +45,7 @@ export default function Template({ data, }) {
           />
         </div>
       </main>
+      <Footer/>
     </>
   )
 }

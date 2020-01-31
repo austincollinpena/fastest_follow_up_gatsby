@@ -1,23 +1,20 @@
-// const React = require('react')
-// const { ApolloClient } = require('apollo-client')
-// const { HttpLink } = require('apollo-link-http')
-// const { InMemoryCache } = require('apollo-cache-inmemory')
-// const ApolloProvider = require('@apollo/react-hooks')
-//
-// const cache = new InMemoryCache();
-// const link = new HttpLink({
-//   uri: "https://backend.fastestfollowup.com/graphql"
-// });
-//
-// const client = new ApolloClient({
-//   cache,
-//   link
-// });
-//
-// exports.wrapRootElement = ({element}) => {
-//   return(
-//     <ApolloProvider client={client}>
-//       {element}
-//     </ApolloProvider>
-//   )
-// }
+import React from 'react';
+import ApolloClient from 'apollo-boost';
+import { ApolloProvider } from 'react-apollo';
+import { renderToString } from 'react-dom/server';
+import fetch from 'isomorphic-fetch';
+
+// gatsby-ssr is required for build regardless if you plan to support SSR
+export const replaceRenderer = ({ bodyComponent, replaceBodyHTMLString }) => {
+  const client = new ApolloClient({
+    fetch
+  });
+
+  const ConnectedBody = () => (
+    <ApolloProvider client={client}>
+        {bodyComponent}
+    </ApolloProvider>
+  );
+
+  replaceBodyHTMLString(renderToString(<ConnectedBody />));
+};
